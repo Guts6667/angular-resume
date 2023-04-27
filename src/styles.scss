@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+$primary: #151515;
+$secondary: #00A97F;
+$tertiary: #292836;
+$cuattro: #BDBDBD;
+
+
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color: #151515;
+}
+
+* {
+  color: white;
+}
+h1 {
+  font-family: "Roboto Condensed", "Roboto", sans-serif;
+  font-size: 4.5vw;
+  font-weight: 400;
+}
+p {
+  font-weight: 200;
+}
+a {
+  text-decoration: none;
+}

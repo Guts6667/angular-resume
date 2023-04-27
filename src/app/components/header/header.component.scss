@@ -1,0 +1,24 @@
+
+.container__header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  &-brand{
+    &:hover{
+      transition: ease-in-out .26s;
+      text-shadow: 15px 16px 0px #00A97F;
+    }
+  }
+  nav{
+    display: flex;
+    column-gap: 10px;
+    a{
+      color: white;
+      &:hover{
+        transition: ease-in-out .26s;
+        color: #00A97F;
+
+      }
+    }
+  }
+}
