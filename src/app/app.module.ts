@@ -14,6 +14,7 @@ import { WorksComponent } from './pages/works/works.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { WorkComponent } from './pages/work/work.component';
 import { ErrorComponent } from './pages/error/error.component';
+import { BannerComponent } from './components/banner/banner.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,6 +25,7 @@ import { ErrorComponent } from './pages/error/error.component';
     ContactComponent,
     WorkComponent,
     ErrorComponent,
+    BannerComponent,
   ],
   imports: [
     BrowserModule,

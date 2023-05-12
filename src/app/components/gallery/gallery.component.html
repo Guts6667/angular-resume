@@ -1,6 +1,6 @@
 <section id="gallery" class="container__gallery">
   <mat-grid-list [cols]="breakpoint" rowHeight="1:1" (window:resize)="onResize($event)" gutterSize="10px">
-    <a *ngFor="let work of works" href="/work/{{work.title}}" class="container__gallery-card">
+    <a *ngFor="let work of works" [routerLink]="'work/'+ work.title" [state]="work" class="container__gallery-card">
       <mat-grid-tile>
         <div class="card-overlay">
           <div  class="card-overlay-content">

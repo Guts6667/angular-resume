@@ -4,9 +4,17 @@
     "picture": "fisheye.png",
     "title": "FishEye",
     "theme": "Photography",
-    "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "content": "ag-designs is Alexiane Grieu's website, UI/UX Designer at BLOB-Agency. This design is the reflection of her style, minimalistic, original and as usual with a touch of cream.",
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "sass-icon.svg",
+      "javascript-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/Y2_P6_Fisheye",
+    "link": "https://guts6667.github.io/Y2_P6_Fisheye/"
   },
   {
     "id": "274TGFG",
@@ -14,8 +22,17 @@
     "title": "AG-Design",
     "theme": "UI/UX Design",
     "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript", "React.js", "Netlify"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "sass-icon.svg",
+      "javascript-icon.svg",
+      "netlify-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/ag-design",
+    "link": "https://agdesigns.art"
   },
   {
     "id": "dksgs7865",
@@ -23,8 +40,18 @@
     "title": "HRNet",
     "theme": "Bookkeeping",
     "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript", "React.js", "Redux", "NPM"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "javascript-icon.svg",
+      "react-icon.svg",
+      "redux-icon.svg",
+      "npm-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/p14-hrnet_chambet-rayan",
+    "link": ""
   },
 
   {
@@ -32,18 +59,45 @@
     "picture": "picture10.png",
     "title": "MBUZZ Esports",
     "theme": "E-Sports",
-    "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "content": "MBUZZ Esports is brand new funded by MBUZZ. In a matter of a few days we managed to deliver a structured application with a playful design. We're proud of this collaboration which brought our website to the Gitex 2022.",
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript", "React.js", "Netlify"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "javascript-icon.svg",
+      "react-icon.svg",
+      "netlify-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/mbuzzesports",
+    "link": "https://mbuzzesports.com"
   },
   {
     "id": "564fgdfgko5",
     "picture": "picture45.png",
     "title": "SaudiExcellence",
     "theme": "Investement Fund",
-    "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "content": "SaudiExcellenceCo's website is the proof that quality can be reached even with a short deadline. They came with a challenge: 10 days to create a unique website to showcase at the AI Summit in Dubaï. It took 8 days from the design to the creation and release",
+    "stacks": [
+      "HTML",
+      "CSS",
+      "SASS",
+      "JavaScript",
+      "React.js",
+      "Next.js",
+      "Netlify"
+    ],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "javascript-icon.svg",
+      "react-icon.svg",
+      "next-icon.svg",
+      "netlify-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/saudiexcellence",
+    "link": "https://www.saudiexcellenceco.com"
   },
   {
     "id": "793hgfh564Z",
@@ -51,8 +105,18 @@
     "title": "Bank-API",
     "theme": "Banking",
     "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript", "React.js", "Swagger"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "sass-icon.svg",
+      "javascript-icon.svg",
+      "react-icon.svg",
+      "swagger-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/Project-13-Bank-API_Rayan-Chambet",
+    "link": ""
   },
 
   {
@@ -60,9 +124,17 @@
     "picture": "ohmyfood.png",
     "title": "OhMyFood",
     "theme": "Food Delivery",
-    "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "content": "Oh My Food, a fictional application that showcase a succession of seemless animations and transitions",
+    "stacks": ["HTML", "CSS", "SASS", "Firebase"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "sass-icon.svg",
+      "firebase-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/P3_Rayan_Chambet_Ohmyfood",
+    "link": "https://ohmyf-cf02d.web.app/index.html"
   },
   {
     "id": "839HDkdj43kg@",
@@ -70,16 +142,16 @@
     "title": "AC Ventures",
     "theme": "Investement Fund",
     "content": "",
-    "stacks": [""],
-    "pictureList": [""]
-  },
-  {
-    "id": "35gfdgfd/&é111",
-    "picture": "sarah-roi.png",
-    "title": "Sarah Roi",
-    "theme": "Education & Consulting",
-    "content": "",
-    "stacks": [""],
-    "pictureList": [""]
+    "stacks": ["HTML", "CSS", "SASS", "JavaScript", "React.js"],
+    "stackPictures": [
+      "html-icon.svg",
+      "css-icon.svg",
+      "sass-icon.svg",
+      "javascript-icon.svg",
+      "react-icon.svg"
+    ],
+    "pictureList": [""],
+    "github": "https://github.com/Guts6667/ac-ventures",
+    "link": ""
   }
 ]

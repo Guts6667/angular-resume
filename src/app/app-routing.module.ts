@@ -9,7 +9,7 @@ import { WorksComponent } from './pages/works/works.component';
 const routes: Routes = [
   { path: '', pathMatch: 'full', component: HomeComponent },
   { path: 'works', component: WorksComponent },
-  { path: 'work/:name', component: WorkComponent },
+  { path: 'work/:title', component: WorkComponent },
   { path: 'contact', component: ContactComponent },
   { path: 'contact', component: ContactComponent },
   { path: '**', component: ErrorComponent },

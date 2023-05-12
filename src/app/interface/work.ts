@@ -4,6 +4,9 @@ export interface Work {
   title: string;
   theme: string;
   content: string;
-  stacks : string[];
+  stacks: string[];
+  stackPictures: string[];
+  pictureList: string[];
+  link: string[];
+  github: string[];
 }
-

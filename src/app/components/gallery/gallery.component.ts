@@ -1,7 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { Work } from 'src/app/interface/work';
-import { WorkService } from 'src/app/service/work.service';
 
 @Component({
   selector: 'app-gallery',
@@ -9,13 +8,9 @@ import { WorkService } from 'src/app/service/work.service';
   styleUrls: ['./gallery.component.scss'],
 })
 export class GalleryComponent {
-  public works: Work[] = [];
+  @Input()public works: Work[] = []
+
   public breakpoint = 0;
-
-  constructor(public workService: WorkService) {
-    this.workService.getWorks().subscribe((works) => (this.works = works));
-  }
-
   ngOnInit() {
     this.breakpoint = window.innerWidth <= 400 ? 1 : 2;
   }
